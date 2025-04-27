@@ -80,8 +80,3 @@ rm -rf ./data/kafka
 - [Bitnami Kafka Docker](https://hub.docker.com/r/bitnami/kafka)
 
 ---
-
-## ✨ Author
-
-**Your Name / GitHub**  
-Project to run Kafka in KRaft mode with quick visualization via Kafka-UI.
