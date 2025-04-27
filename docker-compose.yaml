@@ -1,5 +1,4 @@
-version: '3.8'
-
+#AAB
 services:
   kafka:
     image: bitnami/kafka:3.6
