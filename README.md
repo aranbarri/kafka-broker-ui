@@ -1,6 +1,6 @@
-# Apache Kafka (KRaft Mode) + Kafka-UI with Docker Compose
+# Apache Kafka (KRaft Mode) + Kafka-UI 
 
-This project sets up a local environment of **Apache Kafka** in **KRaft mode** (without Zookeeper) along with **Kafka-UI** for visual management of brokers, topics, producers, and consumers.
+This project sets up a local environment of **Apache Kafka** (without Zookeeper) along with **Kafka-UI** for visual management of brokers, topics, producers, and consumers.
 
 ## 📦 Included Services
 
