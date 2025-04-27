@@ -1,6 +1,6 @@
-# Apache Kafka (KRaft Mode) + Kafka-UI 
+# Apache Kafka + Kafka-UI 
 
-This project sets up a local environment of **Apache Kafka** (without Zookeeper) along with **Kafka-UI** for visual management of brokers, topics, producers, and consumers.
+This project sets up a local environment of **Apache Kafka** (no Zookeeper) along with **Kafka-UI** for visual management of brokers, topics, producers, and consumers.
 
 ## 📦 Included Services
 
