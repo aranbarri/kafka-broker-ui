@@ -13,7 +13,7 @@ This project sets up a local environment of **Apache Kafka** (no Zookeeper) alon
 
 ### 1. Clone the Repository
 ```bash
-git clone https://github.com/your-username/kafka-kraft-ui.git
+git clone https://github.com/aranbarri/kafka-kraft-ui.git
 cd kafka-kraft-ui
 ```
 
